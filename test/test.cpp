@@ -20,10 +20,12 @@ int main()
 int num = 3;
 int func() {
 	cout << num;
+	cout << num;
 	cout << endl;
 	return 0;
 }
-void fn() {
+void fn() 
+{
 
 	n++;
 	cout << "after" << " " << n;
