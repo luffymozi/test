@@ -35,7 +35,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Win32Project1.cpp">
+    <ClCompile Include="firstwindow.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
